@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // маркеры смерча
     var smercIcon = L.icon({
         iconUrl: 'smerc.png',  
-        iconSize: [20, 20], 
+        iconSize: [30, 30], 
         iconAnchor: [10, 10]
     });
 
